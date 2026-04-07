@@ -43,7 +43,6 @@ SkinCancerDetection/
 ├── CSS2 GUI/
 │   ├── main.py          # Desktop GUI 
 │   └── denseNet3.h5     # Trained model 
-├── Dataset.zip          # HAM10000 images and masks for training
 └── DenseNet201.ipynb    # Model training notebook (Google Colab)
 ```
 
@@ -74,7 +73,7 @@ python main.py
 
 ### Training the Model
 
-Open `DenseNet201.ipynb` in Google Colab and run all cells. The notebook mounts Google Drive to access the HAM10000 dataset and saves the trained model as `denseNet3.h5`.
+Open `DenseNet201.ipynb` in Google Colab and run all cells. The notebook mounts Google Drive to access the HAM10000 (available from kaggle.com) dataset and saves the trained model as `denseNet3.h5`.
 
 ---
 
