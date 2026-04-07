@@ -66,7 +66,7 @@ scikit-learn
 cd "SkinCancerDetection/CSS2 GUI"
 python main.py
 ```
-
+####Weights too large to upload
 1. Click **Open Image** to load a dermoscopic `.jpg` image
 2. Click **Process Image** to classify the lesion
 3. The predicted class and description are displayed below
