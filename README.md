@@ -43,9 +43,7 @@ SkinCancerDetection/
 ├── CSS2 GUI/
 │   ├── main.py          # Desktop GUI 
 │   └── denseNet3.h5     # Trained model 
-├── Dataset/             # HAM10000 images and metadata for training
-│   ├── Images/
-│   └── Masks/
+├── Dataset.zip          # HAM10000 images and masks for training
 └── DenseNet201.ipynb    # Model training notebook (Google Colab)
 ```
 
